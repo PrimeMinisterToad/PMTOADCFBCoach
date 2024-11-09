@@ -1,1 +1,160 @@
-Q
+[START_CONFERENCES]		
+ACC	Atlantic	Coastal
+Big Ten	East	West
+Big 12	North	South
+Pac-12	North	South
+SEC	East	West
+American	East	West
+MAC	East	West
+Conf USA	East	West
+Mt West	Mountain	West
+Sun Belt	A	B
+Independent	Indy	Indy
+[END_CONFERENCES]		
+[START_TEAMS]		
+Boston College	BC	ACC
+Clemson	CLEM	ACC
+Duke	DUKE	ACC
+Florida State	FSU	ACC
+Georgia Tech	GT	ACC
+Louisville	LOU	ACC
+Miami	MIA	ACC
+North Carolina	UNC	ACC
+NC State	NCST	ACC
+Pittsburgh	PITT	ACC
+Syracuse	SYR	ACC
+Wake Forest	WAKE	ACC
+Virginia	UVA	ACC
+Virginia Tech	VT	ACC
+[END_CONF]		
+Illinois	ILL	Big Ten
+Indiana	IU	Big Ten
+Iowa	IOWA	Big Ten
+Maryland	UMD	Big Ten
+Michigan	MICH	Big Ten
+Michigan State	MSU	Big Ten
+Minnesota	MINN	Big Ten
+Nebraska	NEB	Big Ten
+Northwestern	NW	Big Ten
+Ohio State	TOSU	Big Ten
+Penn State	PSU	Big Ten
+Purdue	PUR	Big Ten
+Rutgers	RUTG	Big Ten
+Wisconsin	WIS	Big Ten
+[END_CONF]		
+Baylor	BAY	Big 12
+Iowa State	ISU	Big 12
+Kansas	KU	Big 12
+Kansas State	KSU	Big 12
+Oklahoma	OU	Big 12
+Oklahoma State	OKST	Big 12
+Texas	TEX	Big 12
+Texas Tech	TTU	Big 12
+TCU	TCU	Big 12
+West Virginia	WVU	Big 12
+[END_CONF]		
+Arizona	ARIZ	Pac-12
+Arizona State	ASU	Pac-12
+California	CAL	Pac-12
+Colorado	COLO	Pac-12
+Oregon	ORE	Pac-12
+Oregon State	ORST	Pac-12
+Stanford	STAN	Pac-12
+UCLA	UCLA	Pac-12
+USC	USC	Pac-12
+Washington	WASH	Pac-12
+Washington State	WSU	Pac-12
+Utah	UTAH	Pac-12
+[END_CONF]		
+Alabama	BAMA	SEC
+Arkansas	ARK	SEC
+Auburn	AUB	SEC
+Florida	FLA	SEC
+Georgia	UGA	SEC
+Kentucky	UK	SEC
+LSU	LSU	SEC
+Missouri	MIZ	SEC
+Mississippi State	MSST	SEC
+Ole Miss	MISS	SEC
+South Carolina	SCAR	SEC
+Tennessee	TENN	SEC
+Texas AM	TAMU	SEC
+Vanderbilt	VANDY	SEC
+[END_CONF]		
+Cincinnati	CIN	American
+East Carolina	ECU	American
+Houston	HOU	American
+Memphis	MEM	American
+Navy	NAVY	American
+South Florida	USF	American
+SMU	SMU	American
+Temple	TMPL	American
+Tulane	TULN	American
+Tulsa	TLSA	American
+UCF	UCF	American
+[END_CONF]		
+Akron	AKR	MAC
+Ball State	BALL	MAC
+Bowling Green	BGSU	MAC
+Buffalo	BUF	MAC
+Central Michigan	CMU	MAC
+Eastern Michigan	EMU	MAC
+Kent State	KENT	MAC
+Miami OH	MOH	MAC
+Northern Illinois	NIU	MAC
+Ohio	OHIO	MAC
+Toledo	TOL	MAC
+Western Michigan	WMU	MAC
+[END_CONF]		
+Charlotte	CLT	Conf USA
+Florida Atlantic	FAU	Conf USA
+FIU	FIU	Conf USA
+Louisiana Tech	LT	Conf USA
+Marshall	MRSH	Conf USA
+Mid Tenn State	MTSU	Conf USA
+North Texas	UNT	Conf USA
+Old Dominion	ODU	Conf USA
+Rice	RICE	Conf USA
+Southern Miss	SMIS	Conf USA
+UAB	UAB	Conf USA
+UTEP	UTEP	Conf USA
+UTSA	UTSA	Conf USA
+Western Kentucky	WKU	Conf USA
+[END_CONF]		
+Air Force	AF	Mt West
+Boise State	BSU	Mt West
+Colorado State	CSU	Mt West
+Fresno State	FRES	Mt West
+Hawaii	HAW	Mt West
+Nevada	NEV	Mt West
+New Mexico	UNM	Mt West
+San Diego State	SDSU	Mt West
+San Jose State	SJSU	Mt West
+UNLV	UNLV	Mt West
+Utah State	USU	Mt West
+Wyoming	WYO	Mt West
+[END_CONF]		
+Appalachian State	APP	Sun Belt
+Arkansas State	ARST	Sun Belt
+Coastal Carolina	CCU	Sun Belt
+Louisiana Monroe	ULM	Sun Belt
+Louisiana	ULL	Sun Belt
+Georgia Southern	GASO	Sun Belt
+Georgia State	GAST	Sun Belt
+South Alabama	USA	Sun Belt
+Texas State	TXST	Sun Belt
+Troy	TROY	Sun Belt
+[END_CONF]		
+Army	ARMY	Independent
+BYU	BYU	Independent
+Liberty	LIB	Independent
+New Mexico State	NMST	Independent
+Notre Dame	ND	Independent
+UConn	CONN	Independent
+UMass	MASS	Independent
+[END_CONF]		
+[END_TEAMS]		
+Rose Bowl	Orange Bowl	Sugar Bowl
+[END_BOWL_NAMES]		
+		
+		 
